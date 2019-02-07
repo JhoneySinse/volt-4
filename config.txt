@@ -1,0 +1,6 @@
+﻿token=NTQzMTM5Mjk4MzYzNTcyMjUy.Dz4k0g.fBg7KPLZJewsW4sdzWnxLjV9fuM
+owner=423028113535008788
+prefix= 4
+game= 4help
+stayinchannel=true
+songinstatus=true 
